@@ -23,3 +23,4 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noahvocat" alt="noahvocat" /></a> </p>
+<a href="https://www.animatedimages.org/data/media/562/animated-line-image-0363.gif">
