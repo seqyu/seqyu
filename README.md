@@ -1,21 +1,21 @@
 <h1 align="center">👋 Hi! I am Noahvocat</h1>
-<h3 align="center">Just a stupid kid who codes sometimes but mostly jailbreak GPT</h3>
+<h3 align="center">Just your average french idiot</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=noahvocat&label=Profile%20views&color=0e75b6&style=flat" alt="noahvocat" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noahvocat&show_icons=true&locale=en" alt="noahvocat" /></p>
 
-- 🔭 I’m currently working on [GPT Jailbreaks](https://github.com/Noahvocat/checkmAIte/)
+- 🔭 I’m currently working on [nothing]()
 
 - 🌱 I’m currently learning **japanese, spanish and a few programming languages**
 
-- 👨‍💻 All of my projects are available at [https://noahvocat.github.io](https://noahvocat.github.io)
+- 👨‍💻 All of my projects aren't available yet at [https://noahvocat.github.io](https://noahvocat.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/lord_noah73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="noahvocat | @lord_noah73" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Noahvocat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Noahvocat" height="30" width="40" /></a>
-<a href="https://dsc.bio/Noahvocat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Noahvocat#0229" height="30" width="40" /></a>
+<a href="https://dsc.bio/Noahvocat" target="blank" alt="ACCOUNT SUSPENDED BECAUSE APPARENTLY YOU HAVE TO BE 15 AND NOT 13"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Noahvocat#0229" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
