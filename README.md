@@ -1,5 +1,4 @@
-<h1 align="center">👋 Hi! I am Noahvocat</h1>
-<h3 align="center">Just your average french idiot</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=100:3B0086,100:6200B3,&height=300&section=header&text=AvrgFrnchGuy&desc=Just%20Your%20Average%20French%20Idiot&fontSize=90&animation=fadeIn&descAlignY=65&descAlign=60&fontColor=ffffff)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=noahvocat&label=Profile%20views&color=0e75b6&style=flat" alt="noahvocat" /> </p>
 
