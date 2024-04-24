@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [Symbiosis, ProjectLine Browser, Droplet and GD Texture Pack Chooser](https://noahvocat.is-a.dev/repo)
 
-- 🌱 I’m currently learning **japanese, spanish and a few programming languages**
+- 🌱 I’m currently learning **japanese, a bit of arabic and a few programming languages**
 
-- 👨‍💻 All of my projects aren't available yet at [https://noahvocat.github.io](https://noahvocat.github.io)
+- 👨‍💻 All of my projects are available here
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
