@@ -4,7 +4,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noahvocat&show_icons=true&locale=en" alt="noahvocat" /></p>
 
-- 🔭 I’m currently working on [Symbiosis, ProjectLine Browser, Droplet and GD Texture Pack Chooser](https://noahvocat.is-a.dev/repo)
+- 🔭 I’m currently working on [Symbiosis, Stack. and a shit ton of other cool shit](https://frenchguy.is-a.dev/repo)
 
 - 🌱 I’m currently learning **japanese, a bit of arabic and a few programming languages**
 
