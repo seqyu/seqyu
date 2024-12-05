@@ -1,1 +1,1 @@
-it's pronounced "seqyu" btw
+it's pronounced "sekyu' btw
