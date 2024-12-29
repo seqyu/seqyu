@@ -1,1 +1,3 @@
-it's pronounced "sekyu' btw
+haiiii!!!!
+
+my dotfileslsqf: https://github.com/seqyu/home-sweet-home
